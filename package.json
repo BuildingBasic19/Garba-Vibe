@@ -1,0 +1,10 @@
+{
+  "name": "garbavibe",
+  "version": "1.0.0",
+  "description": "Navratri story and greeting studio",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "dependencies": { "express": "^4.19.2" }
+}
