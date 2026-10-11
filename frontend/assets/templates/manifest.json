@@ -1,0 +1,4178 @@
+[
+{
+"id": "classic-collage-amethyst-raas-4",
+"pack": "classic",
+"kind": "collage",
+"theme": "Amethyst Raas",
+"file": "classic/collage/amethyst-raas-4.webp",
+"thumb": "thumbs/classic-collage-amethyst-raas-4.jpg",
+"slots": [
+[
+100,
+326,
+409,
+591
+],
+[
+572,
+326,
+410,
+591
+],
+[
+100,
+980,
+409,
+591
+],
+[
+572,
+980,
+410,
+591
+]
+],
+"photos": 4,
+"name": "Amethyst Raas · 4 photos"
+},
+{
+"id": "classic-collage-amethyst-raas-5",
+"pack": "classic",
+"kind": "collage",
+"theme": "Amethyst Raas",
+"file": "classic/collage/amethyst-raas-5.webp",
+"thumb": "thumbs/classic-collage-amethyst-raas-5.jpg",
+"slots": [
+[
+100,
+326,
+409,
+374
+],
+[
+572,
+326,
+410,
+374
+],
+[
+322,
+763,
+409,
+373
+],
+[
+100,
+1199,
+409,
+374
+],
+[
+572,
+1199,
+410,
+374
+]
+],
+"photos": 5,
+"name": "Amethyst Raas · 5 photos"
+},
+{
+"id": "classic-collage-amethyst-raas-6",
+"pack": "classic",
+"kind": "collage",
+"theme": "Amethyst Raas",
+"file": "classic/collage/amethyst-raas-6.webp",
+"thumb": "thumbs/classic-collage-amethyst-raas-6.jpg",
+"slots": [
+[
+100,
+326,
+252,
+591
+],
+[
+415,
+326,
+252,
+591
+],
+[
+730,
+326,
+252,
+591
+],
+[
+100,
+980,
+252,
+591
+],
+[
+415,
+980,
+252,
+591
+],
+[
+730,
+980,
+252,
+591
+]
+],
+"photos": 6,
+"name": "Amethyst Raas · 6 photos"
+},
+{
+"id": "classic-collage-chandan-charm-4",
+"pack": "classic",
+"kind": "collage",
+"theme": "Chandan Charm",
+"file": "classic/collage/chandan-charm-4.webp",
+"thumb": "thumbs/classic-collage-chandan-charm-4.jpg",
+"slots": [
+[
+100,
+326,
+409,
+591
+],
+[
+572,
+326,
+410,
+591
+],
+[
+100,
+980,
+409,
+591
+],
+[
+572,
+980,
+410,
+591
+]
+],
+"photos": 4,
+"name": "Chandan Charm · 4 photos"
+},
+{
+"id": "classic-collage-chandan-charm-5",
+"pack": "classic",
+"kind": "collage",
+"theme": "Chandan Charm",
+"file": "classic/collage/chandan-charm-5.webp",
+"thumb": "thumbs/classic-collage-chandan-charm-5.jpg",
+"slots": [
+[
+100,
+326,
+409,
+374
+],
+[
+572,
+326,
+410,
+374
+],
+[
+322,
+763,
+409,
+373
+],
+[
+100,
+1199,
+409,
+374
+],
+[
+572,
+1199,
+410,
+374
+]
+],
+"photos": 5,
+"name": "Chandan Charm · 5 photos"
+},
+{
+"id": "classic-collage-chandan-charm-6",
+"pack": "classic",
+"kind": "collage",
+"theme": "Chandan Charm",
+"file": "classic/collage/chandan-charm-6.webp",
+"thumb": "thumbs/classic-collage-chandan-charm-6.jpg",
+"slots": [
+[
+100,
+326,
+252,
+591
+],
+[
+415,
+326,
+252,
+591
+],
+[
+730,
+326,
+252,
+591
+],
+[
+100,
+980,
+252,
+591
+],
+[
+415,
+980,
+252,
+591
+],
+[
+730,
+980,
+252,
+591
+]
+],
+"photos": 6,
+"name": "Chandan Charm · 6 photos"
+},
+{
+"id": "classic-collage-emerald-mandir-4",
+"pack": "classic",
+"kind": "collage",
+"theme": "Emerald Mandir",
+"file": "classic/collage/emerald-mandir-4.webp",
+"thumb": "thumbs/classic-collage-emerald-mandir-4.jpg",
+"slots": [
+[
+100,
+326,
+409,
+591
+],
+[
+572,
+326,
+410,
+591
+],
+[
+100,
+980,
+409,
+591
+],
+[
+572,
+980,
+410,
+591
+]
+],
+"photos": 4,
+"name": "Emerald Mandir · 4 photos"
+},
+{
+"id": "classic-collage-emerald-mandir-5",
+"pack": "classic",
+"kind": "collage",
+"theme": "Emerald Mandir",
+"file": "classic/collage/emerald-mandir-5.webp",
+"thumb": "thumbs/classic-collage-emerald-mandir-5.jpg",
+"slots": [
+[
+100,
+326,
+409,
+374
+],
+[
+572,
+326,
+410,
+374
+],
+[
+322,
+763,
+409,
+373
+],
+[
+100,
+1199,
+409,
+374
+],
+[
+572,
+1199,
+410,
+374
+]
+],
+"photos": 5,
+"name": "Emerald Mandir · 5 photos"
+},
+{
+"id": "classic-collage-emerald-mandir-6",
+"pack": "classic",
+"kind": "collage",
+"theme": "Emerald Mandir",
+"file": "classic/collage/emerald-mandir-6.webp",
+"thumb": "thumbs/classic-collage-emerald-mandir-6.jpg",
+"slots": [
+[
+100,
+326,
+252,
+591
+],
+[
+415,
+326,
+252,
+591
+],
+[
+730,
+326,
+252,
+591
+],
+[
+100,
+980,
+252,
+591
+],
+[
+415,
+980,
+252,
+591
+],
+[
+730,
+980,
+252,
+591
+]
+],
+"photos": 6,
+"name": "Emerald Mandir · 6 photos"
+},
+{
+"id": "classic-collage-jade-jyoti-4",
+"pack": "classic",
+"kind": "collage",
+"theme": "Jade Jyoti",
+"file": "classic/collage/jade-jyoti-4.webp",
+"thumb": "thumbs/classic-collage-jade-jyoti-4.jpg",
+"slots": [
+[
+100,
+326,
+409,
+591
+],
+[
+572,
+326,
+410,
+591
+],
+[
+100,
+980,
+409,
+591
+],
+[
+572,
+980,
+410,
+591
+]
+],
+"photos": 4,
+"name": "Jade Jyoti · 4 photos"
+},
+{
+"id": "classic-collage-jade-jyoti-5",
+"pack": "classic",
+"kind": "collage",
+"theme": "Jade Jyoti",
+"file": "classic/collage/jade-jyoti-5.webp",
+"thumb": "thumbs/classic-collage-jade-jyoti-5.jpg",
+"slots": [
+[
+100,
+326,
+409,
+374
+],
+[
+572,
+326,
+410,
+374
+],
+[
+322,
+763,
+409,
+373
+],
+[
+100,
+1199,
+409,
+374
+],
+[
+572,
+1199,
+410,
+374
+]
+],
+"photos": 5,
+"name": "Jade Jyoti · 5 photos"
+},
+{
+"id": "classic-collage-jade-jyoti-6",
+"pack": "classic",
+"kind": "collage",
+"theme": "Jade Jyoti",
+"file": "classic/collage/jade-jyoti-6.webp",
+"thumb": "thumbs/classic-collage-jade-jyoti-6.jpg",
+"slots": [
+[
+100,
+326,
+252,
+591
+],
+[
+415,
+326,
+252,
+591
+],
+[
+730,
+326,
+252,
+591
+],
+[
+100,
+980,
+252,
+591
+],
+[
+415,
+980,
+252,
+591
+],
+[
+730,
+980,
+252,
+591
+]
+],
+"photos": 6,
+"name": "Jade Jyoti · 6 photos"
+},
+{
+"id": "classic-collage-kesari-kiran-4",
+"pack": "classic",
+"kind": "collage",
+"theme": "Kesari Kiran",
+"file": "classic/collage/kesari-kiran-4.webp",
+"thumb": "thumbs/classic-collage-kesari-kiran-4.jpg",
+"slots": [
+[
+100,
+326,
+409,
+591
+],
+[
+563,
+317,
+428,
+610
+],
+[
+100,
+980,
+409,
+591
+],
+[
+572,
+980,
+410,
+591
+]
+],
+"photos": 4,
+"name": "Kesari Kiran · 4 photos"
+},
+{
+"id": "classic-collage-kesari-kiran-5",
+"pack": "classic",
+"kind": "collage",
+"theme": "Kesari Kiran",
+"file": "classic/collage/kesari-kiran-5.webp",
+"thumb": "thumbs/classic-collage-kesari-kiran-5.jpg",
+"slots": [
+[
+91,
+317,
+427,
+392
+],
+[
+572,
+326,
+410,
+374
+],
+[
+322,
+763,
+409,
+373
+],
+[
+100,
+1199,
+409,
+374
+],
+[
+572,
+1199,
+410,
+374
+]
+],
+"photos": 5,
+"name": "Kesari Kiran · 5 photos"
+},
+{
+"id": "classic-collage-kesari-kiran-6",
+"pack": "classic",
+"kind": "collage",
+"theme": "Kesari Kiran",
+"file": "classic/collage/kesari-kiran-6.webp",
+"thumb": "thumbs/classic-collage-kesari-kiran-6.jpg",
+"slots": [
+[
+100,
+326,
+252,
+591
+],
+[
+415,
+326,
+252,
+591
+],
+[
+730,
+326,
+252,
+591
+],
+[
+100,
+980,
+252,
+591
+],
+[
+415,
+980,
+252,
+591
+],
+[
+721,
+971,
+270,
+609
+]
+],
+"photos": 6,
+"name": "Kesari Kiran · 6 photos"
+},
+{
+"id": "classic-collage-kumkum-royale-4",
+"pack": "classic",
+"kind": "collage",
+"theme": "Kumkum Royale",
+"file": "classic/collage/kumkum-royale-4.webp",
+"thumb": "thumbs/classic-collage-kumkum-royale-4.jpg",
+"slots": [
+[
+100,
+326,
+409,
+591
+],
+[
+560,
+316,
+435,
+615
+],
+[
+100,
+980,
+409,
+591
+],
+[
+572,
+980,
+410,
+591
+]
+],
+"photos": 4,
+"name": "Kumkum Royale · 4 photos"
+},
+{
+"id": "classic-collage-kumkum-royale-5",
+"pack": "classic",
+"kind": "collage",
+"theme": "Kumkum Royale",
+"file": "classic/collage/kumkum-royale-5.webp",
+"thumb": "thumbs/classic-collage-kumkum-royale-5.jpg",
+"slots": [
+[
+100,
+326,
+409,
+374
+],
+[
+560,
+316,
+435,
+397
+],
+[
+322,
+763,
+409,
+373
+],
+[
+100,
+1199,
+409,
+374
+],
+[
+572,
+1199,
+410,
+374
+]
+],
+"photos": 5,
+"name": "Kumkum Royale · 5 photos"
+},
+{
+"id": "classic-collage-kumkum-royale-6",
+"pack": "classic",
+"kind": "collage",
+"theme": "Kumkum Royale",
+"file": "classic/collage/kumkum-royale-6.webp",
+"thumb": "thumbs/classic-collage-kumkum-royale-6.jpg",
+"slots": [
+[
+100,
+326,
+252,
+591
+],
+[
+403,
+316,
+277,
+615
+],
+[
+730,
+326,
+252,
+591
+],
+[
+100,
+980,
+252,
+591
+],
+[
+415,
+980,
+252,
+591
+],
+[
+730,
+980,
+252,
+591
+]
+],
+"photos": 6,
+"name": "Kumkum Royale · 6 photos"
+},
+{
+"id": "classic-collage-neelkamal-nights-4",
+"pack": "classic",
+"kind": "collage",
+"theme": "Neelkamal Nights",
+"file": "classic/collage/neelkamal-nights-4.webp",
+"thumb": "thumbs/classic-collage-neelkamal-nights-4.jpg",
+"slots": [
+[
+100,
+326,
+409,
+591
+],
+[
+572,
+326,
+410,
+591
+],
+[
+100,
+980,
+409,
+591
+],
+[
+563,
+971,
+428,
+609
+]
+],
+"photos": 4,
+"name": "Neelkamal Nights · 4 photos"
+},
+{
+"id": "classic-collage-neelkamal-nights-5",
+"pack": "classic",
+"kind": "collage",
+"theme": "Neelkamal Nights",
+"file": "classic/collage/neelkamal-nights-5.webp",
+"thumb": "thumbs/classic-collage-neelkamal-nights-5.jpg",
+"slots": [
+[
+100,
+326,
+409,
+374
+],
+[
+563,
+317,
+428,
+392
+],
+[
+322,
+763,
+409,
+373
+],
+[
+100,
+1199,
+409,
+374
+],
+[
+572,
+1199,
+410,
+374
+]
+],
+"photos": 5,
+"name": "Neelkamal Nights · 5 photos"
+},
+{
+"id": "classic-collage-neelkamal-nights-6",
+"pack": "classic",
+"kind": "collage",
+"theme": "Neelkamal Nights",
+"file": "classic/collage/neelkamal-nights-6.webp",
+"thumb": "thumbs/classic-collage-neelkamal-nights-6.jpg",
+"slots": [
+[
+100,
+326,
+252,
+591
+],
+[
+415,
+326,
+252,
+591
+],
+[
+730,
+326,
+252,
+591
+],
+[
+100,
+980,
+252,
+591
+],
+[
+415,
+980,
+252,
+591
+],
+[
+721,
+971,
+270,
+609
+]
+],
+"photos": 6,
+"name": "Neelkamal Nights · 6 photos"
+},
+{
+"id": "classic-collage-orchid-utsav-4",
+"pack": "classic",
+"kind": "collage",
+"theme": "Orchid Utsav",
+"file": "classic/collage/orchid-utsav-4.webp",
+"thumb": "thumbs/classic-collage-orchid-utsav-4.jpg",
+"slots": [
+[
+88,
+316,
+435,
+615
+],
+[
+572,
+326,
+410,
+591
+],
+[
+100,
+980,
+409,
+591
+],
+[
+572,
+980,
+410,
+591
+]
+],
+"photos": 4,
+"name": "Orchid Utsav · 4 photos"
+},
+{
+"id": "classic-collage-orchid-utsav-5",
+"pack": "classic",
+"kind": "collage",
+"theme": "Orchid Utsav",
+"file": "classic/collage/orchid-utsav-5.webp",
+"thumb": "thumbs/classic-collage-orchid-utsav-5.jpg",
+"slots": [
+[
+100,
+326,
+409,
+374
+],
+[
+572,
+326,
+410,
+374
+],
+[
+322,
+763,
+409,
+373
+],
+[
+100,
+1199,
+409,
+374
+],
+[
+560,
+1189,
+435,
+397
+]
+],
+"photos": 5,
+"name": "Orchid Utsav · 5 photos"
+},
+{
+"id": "classic-collage-orchid-utsav-6",
+"pack": "classic",
+"kind": "collage",
+"theme": "Orchid Utsav",
+"file": "classic/collage/orchid-utsav-6.webp",
+"thumb": "thumbs/classic-collage-orchid-utsav-6.jpg",
+"slots": [
+[
+100,
+326,
+252,
+591
+],
+[
+415,
+326,
+252,
+591
+],
+[
+730,
+326,
+252,
+591
+],
+[
+100,
+980,
+252,
+591
+],
+[
+403,
+970,
+277,
+615
+],
+[
+730,
+980,
+252,
+591
+]
+],
+"photos": 6,
+"name": "Orchid Utsav · 6 photos"
+},
+{
+"id": "classic-collage-rose-kalash-4",
+"pack": "classic",
+"kind": "collage",
+"theme": "Rose Kalash",
+"file": "classic/collage/rose-kalash-4.webp",
+"thumb": "thumbs/classic-collage-rose-kalash-4.jpg",
+"slots": [
+[
+100,
+326,
+409,
+591
+],
+[
+572,
+326,
+410,
+591
+],
+[
+87,
+970,
+436,
+615
+],
+[
+572,
+980,
+410,
+591
+]
+],
+"photos": 4,
+"name": "Rose Kalash · 4 photos"
+},
+{
+"id": "classic-collage-rose-kalash-5",
+"pack": "classic",
+"kind": "collage",
+"theme": "Rose Kalash",
+"file": "classic/collage/rose-kalash-5.webp",
+"thumb": "thumbs/classic-collage-rose-kalash-5.jpg",
+"slots": [
+[
+88,
+316,
+435,
+397
+],
+[
+572,
+326,
+410,
+374
+],
+[
+322,
+763,
+409,
+373
+],
+[
+100,
+1199,
+409,
+374
+],
+[
+572,
+1199,
+410,
+374
+]
+],
+"photos": 5,
+"name": "Rose Kalash · 5 photos"
+},
+{
+"id": "classic-collage-rose-kalash-6",
+"pack": "classic",
+"kind": "collage",
+"theme": "Rose Kalash",
+"file": "classic/collage/rose-kalash-6.webp",
+"thumb": "thumbs/classic-collage-rose-kalash-6.jpg",
+"slots": [
+[
+100,
+326,
+252,
+591
+],
+[
+415,
+326,
+252,
+591
+],
+[
+730,
+326,
+252,
+591
+],
+[
+100,
+980,
+252,
+591
+],
+[
+403,
+970,
+277,
+615
+],
+[
+730,
+980,
+252,
+591
+]
+],
+"photos": 6,
+"name": "Rose Kalash · 6 photos"
+},
+{
+"id": "classic-collage-sapphire-aarti-4",
+"pack": "classic",
+"kind": "collage",
+"theme": "Sapphire Aarti",
+"file": "classic/collage/sapphire-aarti-4.webp",
+"thumb": "thumbs/classic-collage-sapphire-aarti-4.jpg",
+"slots": [
+[
+100,
+326,
+409,
+591
+],
+[
+572,
+326,
+410,
+591
+],
+[
+91,
+971,
+427,
+609
+],
+[
+572,
+980,
+410,
+591
+]
+],
+"photos": 4,
+"name": "Sapphire Aarti · 4 photos"
+},
+{
+"id": "classic-collage-sapphire-aarti-5",
+"pack": "classic",
+"kind": "collage",
+"theme": "Sapphire Aarti",
+"file": "classic/collage/sapphire-aarti-5.webp",
+"thumb": "thumbs/classic-collage-sapphire-aarti-5.jpg",
+"slots": [
+[
+100,
+326,
+409,
+374
+],
+[
+572,
+326,
+410,
+374
+],
+[
+313,
+754,
+427,
+391
+],
+[
+100,
+1199,
+409,
+374
+],
+[
+572,
+1199,
+410,
+374
+]
+],
+"photos": 5,
+"name": "Sapphire Aarti · 5 photos"
+},
+{
+"id": "classic-collage-sapphire-aarti-6",
+"pack": "classic",
+"kind": "collage",
+"theme": "Sapphire Aarti",
+"file": "classic/collage/sapphire-aarti-6.webp",
+"thumb": "thumbs/classic-collage-sapphire-aarti-6.jpg",
+"slots": [
+[
+100,
+326,
+252,
+591
+],
+[
+415,
+326,
+252,
+591
+],
+[
+721,
+317,
+270,
+609
+],
+[
+100,
+980,
+252,
+591
+],
+[
+415,
+980,
+252,
+591
+],
+[
+730,
+980,
+252,
+591
+]
+],
+"photos": 6,
+"name": "Sapphire Aarti · 6 photos"
+},
+{
+"id": "classic-collage-sindoor-shakti-4",
+"pack": "classic",
+"kind": "collage",
+"theme": "Sindoor Shakti",
+"file": "classic/collage/sindoor-shakti-4.webp",
+"thumb": "thumbs/classic-collage-sindoor-shakti-4.jpg",
+"slots": [
+[
+100,
+326,
+409,
+591
+],
+[
+572,
+326,
+410,
+591
+],
+[
+100,
+980,
+409,
+591
+],
+[
+560,
+970,
+435,
+615
+]
+],
+"photos": 4,
+"name": "Sindoor Shakti · 4 photos"
+},
+{
+"id": "classic-collage-sindoor-shakti-5",
+"pack": "classic",
+"kind": "collage",
+"theme": "Sindoor Shakti",
+"file": "classic/collage/sindoor-shakti-5.webp",
+"thumb": "thumbs/classic-collage-sindoor-shakti-5.jpg",
+"slots": [
+[
+100,
+326,
+409,
+374
+],
+[
+572,
+326,
+410,
+374
+],
+[
+310,
+752,
+435,
+398
+],
+[
+100,
+1199,
+409,
+374
+],
+[
+572,
+1199,
+410,
+374
+]
+],
+"photos": 5,
+"name": "Sindoor Shakti · 5 photos"
+},
+{
+"id": "classic-collage-sindoor-shakti-6",
+"pack": "classic",
+"kind": "collage",
+"theme": "Sindoor Shakti",
+"file": "classic/collage/sindoor-shakti-6.webp",
+"thumb": "thumbs/classic-collage-sindoor-shakti-6.jpg",
+"slots": [
+[
+100,
+326,
+252,
+591
+],
+[
+403,
+316,
+277,
+615
+],
+[
+730,
+326,
+252,
+591
+],
+[
+100,
+980,
+252,
+591
+],
+[
+415,
+980,
+252,
+591
+],
+[
+730,
+980,
+252,
+591
+]
+],
+"photos": 6,
+"name": "Sindoor Shakti · 6 photos"
+},
+{
+"id": "classic-collage-swarna-mahal-4",
+"pack": "classic",
+"kind": "collage",
+"theme": "Swarna Mahal",
+"file": "classic/collage/swarna-mahal-4.webp",
+"thumb": "thumbs/classic-collage-swarna-mahal-4.jpg",
+"slots": [
+[
+91,
+317,
+427,
+609
+],
+[
+572,
+326,
+410,
+591
+],
+[
+100,
+980,
+409,
+591
+],
+[
+572,
+980,
+410,
+591
+]
+],
+"photos": 4,
+"name": "Swarna Mahal · 4 photos"
+},
+{
+"id": "classic-collage-swarna-mahal-5",
+"pack": "classic",
+"kind": "collage",
+"theme": "Swarna Mahal",
+"file": "classic/collage/swarna-mahal-5.webp",
+"thumb": "thumbs/classic-collage-swarna-mahal-5.jpg",
+"slots": [
+[
+100,
+326,
+409,
+374
+],
+[
+572,
+326,
+410,
+374
+],
+[
+322,
+763,
+409,
+373
+],
+[
+91,
+1190,
+427,
+392
+],
+[
+572,
+1199,
+410,
+374
+]
+],
+"photos": 5,
+"name": "Swarna Mahal · 5 photos"
+},
+{
+"id": "classic-collage-swarna-mahal-6",
+"pack": "classic",
+"kind": "collage",
+"theme": "Swarna Mahal",
+"file": "classic/collage/swarna-mahal-6.webp",
+"thumb": "thumbs/classic-collage-swarna-mahal-6.jpg",
+"slots": [
+[
+100,
+326,
+252,
+591
+],
+[
+415,
+326,
+252,
+591
+],
+[
+720,
+317,
+271,
+610
+],
+[
+100,
+980,
+252,
+591
+],
+[
+415,
+980,
+252,
+591
+],
+[
+730,
+980,
+252,
+591
+]
+],
+"photos": 6,
+"name": "Swarna Mahal · 6 photos"
+},
+{
+"id": "classic-story-amethyst-raas-a",
+"pack": "classic",
+"kind": "story",
+"theme": "Amethyst Raas",
+"file": "classic/story/amethyst-raas-a.webp",
+"thumb": "thumbs/classic-story-amethyst-raas-a.jpg",
+"slots": [
+[
+184,
+406,
+715,
+745
+]
+],
+"name": "Amethyst Raas · Story A",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "classic-story-amethyst-raas-b",
+"pack": "classic",
+"kind": "story",
+"theme": "Amethyst Raas",
+"file": "classic/story/amethyst-raas-b.webp",
+"thumb": "thumbs/classic-story-amethyst-raas-b.jpg",
+"slots": [
+[
+224,
+391,
+635,
+708
+]
+],
+"name": "Amethyst Raas · Story B",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "classic-story-chandan-charm-a",
+"pack": "classic",
+"kind": "story",
+"theme": "Chandan Charm",
+"file": "classic/story/chandan-charm-a.webp",
+"thumb": "thumbs/classic-story-chandan-charm-a.jpg",
+"slots": [
+[
+184,
+406,
+715,
+745
+]
+],
+"name": "Chandan Charm · Story A",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "classic-story-chandan-charm-b",
+"pack": "classic",
+"kind": "story",
+"theme": "Chandan Charm",
+"file": "classic/story/chandan-charm-b.webp",
+"thumb": "thumbs/classic-story-chandan-charm-b.jpg",
+"slots": [
+[
+224,
+391,
+635,
+708
+]
+],
+"name": "Chandan Charm · Story B",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "classic-story-emerald-mandir-a",
+"pack": "classic",
+"kind": "story",
+"theme": "Emerald Mandir",
+"file": "classic/story/emerald-mandir-a.webp",
+"thumb": "thumbs/classic-story-emerald-mandir-a.jpg",
+"slots": [
+[
+184,
+406,
+715,
+745
+]
+],
+"name": "Emerald Mandir · Story A",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "classic-story-emerald-mandir-b",
+"pack": "classic",
+"kind": "story",
+"theme": "Emerald Mandir",
+"file": "classic/story/emerald-mandir-b.webp",
+"thumb": "thumbs/classic-story-emerald-mandir-b.jpg",
+"slots": [
+[
+224,
+391,
+635,
+708
+]
+],
+"name": "Emerald Mandir · Story B",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "classic-story-jade-jyoti-a",
+"pack": "classic",
+"kind": "story",
+"theme": "Jade Jyoti",
+"file": "classic/story/jade-jyoti-a.webp",
+"thumb": "thumbs/classic-story-jade-jyoti-a.jpg",
+"slots": [
+[
+184,
+406,
+715,
+745
+]
+],
+"name": "Jade Jyoti · Story A",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "classic-story-jade-jyoti-b",
+"pack": "classic",
+"kind": "story",
+"theme": "Jade Jyoti",
+"file": "classic/story/jade-jyoti-b.webp",
+"thumb": "thumbs/classic-story-jade-jyoti-b.jpg",
+"slots": [
+[
+224,
+391,
+635,
+708
+]
+],
+"name": "Jade Jyoti · Story B",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "classic-story-kesari-kiran-a",
+"pack": "classic",
+"kind": "story",
+"theme": "Kesari Kiran",
+"file": "classic/story/kesari-kiran-a.webp",
+"thumb": "thumbs/classic-story-kesari-kiran-a.jpg",
+"slots": [
+[
+186,
+407,
+709,
+740
+]
+],
+"name": "Kesari Kiran · Story A",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "classic-story-kesari-kiran-b",
+"pack": "classic",
+"kind": "story",
+"theme": "Kesari Kiran",
+"file": "classic/story/kesari-kiran-b.webp",
+"thumb": "thumbs/classic-story-kesari-kiran-b.jpg",
+"slots": [
+[
+236,
+401,
+609,
+684
+]
+],
+"name": "Kesari Kiran · Story B",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "classic-story-kumkum-royale-a",
+"pack": "classic",
+"kind": "story",
+"theme": "Kumkum Royale",
+"file": "classic/story/kumkum-royale-a.webp",
+"thumb": "thumbs/classic-story-kumkum-royale-a.jpg",
+"slots": [
+[
+187,
+407,
+708,
+740
+]
+],
+"name": "Kumkum Royale · Story A",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "classic-story-kumkum-royale-b",
+"pack": "classic",
+"kind": "story",
+"theme": "Kumkum Royale",
+"file": "classic/story/kumkum-royale-b.webp",
+"thumb": "thumbs/classic-story-kumkum-royale-b.jpg",
+"slots": [
+[
+227,
+392,
+627,
+702
+]
+],
+"name": "Kumkum Royale · Story B",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "classic-story-neelkamal-nights-a",
+"pack": "classic",
+"kind": "story",
+"theme": "Neelkamal Nights",
+"file": "classic/story/neelkamal-nights-a.webp",
+"thumb": "thumbs/classic-story-neelkamal-nights-a.jpg",
+"slots": [
+[
+196,
+416,
+690,
+722
+]
+],
+"name": "Neelkamal Nights · Story A",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "classic-story-neelkamal-nights-b",
+"pack": "classic",
+"kind": "story",
+"theme": "Neelkamal Nights",
+"file": "classic/story/neelkamal-nights-b.webp",
+"thumb": "thumbs/classic-story-neelkamal-nights-b.jpg",
+"slots": [
+[
+236,
+401,
+609,
+684
+]
+],
+"name": "Neelkamal Nights · Story B",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "classic-story-orchid-utsav-a",
+"pack": "classic",
+"kind": "story",
+"theme": "Orchid Utsav",
+"file": "classic/story/orchid-utsav-a.webp",
+"thumb": "thumbs/classic-story-orchid-utsav-a.jpg",
+"slots": [
+[
+187,
+407,
+708,
+740
+]
+],
+"name": "Orchid Utsav · Story A",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "classic-story-orchid-utsav-b",
+"pack": "classic",
+"kind": "story",
+"theme": "Orchid Utsav",
+"file": "classic/story/orchid-utsav-b.webp",
+"thumb": "thumbs/classic-story-orchid-utsav-b.jpg",
+"slots": [
+[
+227,
+392,
+627,
+702
+]
+],
+"name": "Orchid Utsav · Story B",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "classic-story-rose-kalash-a",
+"pack": "classic",
+"kind": "story",
+"theme": "Rose Kalash",
+"file": "classic/story/rose-kalash-a.webp",
+"thumb": "thumbs/classic-story-rose-kalash-a.jpg",
+"slots": [
+[
+187,
+407,
+708,
+740
+]
+],
+"name": "Rose Kalash · Story A",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "classic-story-rose-kalash-b",
+"pack": "classic",
+"kind": "story",
+"theme": "Rose Kalash",
+"file": "classic/story/rose-kalash-b.webp",
+"thumb": "thumbs/classic-story-rose-kalash-b.jpg",
+"slots": [
+[
+227,
+392,
+627,
+702
+]
+],
+"name": "Rose Kalash · Story B",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "classic-story-sapphire-aarti-a",
+"pack": "classic",
+"kind": "story",
+"theme": "Sapphire Aarti",
+"file": "classic/story/sapphire-aarti-a.webp",
+"thumb": "thumbs/classic-story-sapphire-aarti-a.jpg",
+"slots": [
+[
+196,
+416,
+690,
+722
+]
+],
+"name": "Sapphire Aarti · Story A",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "classic-story-sapphire-aarti-b",
+"pack": "classic",
+"kind": "story",
+"theme": "Sapphire Aarti",
+"file": "classic/story/sapphire-aarti-b.webp",
+"thumb": "thumbs/classic-story-sapphire-aarti-b.jpg",
+"slots": [
+[
+236,
+401,
+609,
+684
+]
+],
+"name": "Sapphire Aarti · Story B",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "classic-story-sindoor-shakti-a",
+"pack": "classic",
+"kind": "story",
+"theme": "Sindoor Shakti",
+"file": "classic/story/sindoor-shakti-a.webp",
+"thumb": "thumbs/classic-story-sindoor-shakti-a.jpg",
+"slots": [
+[
+187,
+407,
+708,
+740
+]
+],
+"name": "Sindoor Shakti · Story A",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "classic-story-sindoor-shakti-b",
+"pack": "classic",
+"kind": "story",
+"theme": "Sindoor Shakti",
+"file": "classic/story/sindoor-shakti-b.webp",
+"thumb": "thumbs/classic-story-sindoor-shakti-b.jpg",
+"slots": [
+[
+227,
+392,
+627,
+702
+]
+],
+"name": "Sindoor Shakti · Story B",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "classic-story-swarna-mahal-a",
+"pack": "classic",
+"kind": "story",
+"theme": "Swarna Mahal",
+"file": "classic/story/swarna-mahal-a.webp",
+"thumb": "thumbs/classic-story-swarna-mahal-a.jpg",
+"slots": [
+[
+196,
+416,
+690,
+722
+]
+],
+"name": "Swarna Mahal · Story A",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "classic-story-swarna-mahal-b",
+"pack": "classic",
+"kind": "story",
+"theme": "Swarna Mahal",
+"file": "classic/story/swarna-mahal-b.webp",
+"thumb": "thumbs/classic-story-swarna-mahal-b.jpg",
+"slots": [
+[
+236,
+401,
+609,
+684
+]
+],
+"name": "Swarna Mahal · Story B",
+"panel": [
+121,
+1237,
+840,
+355
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "genz-collage-aqua-archive-4",
+"pack": "genz",
+"kind": "collage",
+"theme": "Aqua Archive",
+"file": "genz/collage/aqua-archive-4.webp",
+"thumb": "thumbs/genz-collage-aqua-archive-4.jpg",
+"slots": [
+[
+82,
+319,
+439,
+630
+],
+[
+568,
+326,
+424,
+616
+],
+[
+82,
+988,
+439,
+630
+],
+[
+560,
+988,
+440,
+630
+]
+],
+"photos": 4,
+"name": "Aqua Archive · 4 photos"
+},
+{
+"id": "genz-collage-aqua-archive-5",
+"pack": "genz",
+"kind": "collage",
+"theme": "Aqua Archive",
+"file": "genz/collage/aqua-archive-5.webp",
+"thumb": "thumbs/genz-collage-aqua-archive-5.jpg",
+"slots": [
+[
+82,
+319,
+439,
+406
+],
+[
+569,
+326,
+422,
+392
+],
+[
+307,
+764,
+439,
+407
+],
+[
+82,
+1210,
+439,
+406
+],
+[
+560,
+1210,
+440,
+408
+]
+],
+"photos": 5,
+"name": "Aqua Archive · 5 photos"
+},
+{
+"id": "genz-collage-aqua-archive-6",
+"pack": "genz",
+"kind": "collage",
+"theme": "Aqua Archive",
+"file": "genz/collage/aqua-archive-6.webp",
+"thumb": "thumbs/genz-collage-aqua-archive-6.jpg",
+"slots": [
+[
+82,
+319,
+279,
+630
+],
+[
+400,
+319,
+279,
+630
+],
+[
+718,
+319,
+279,
+630
+],
+[
+82,
+988,
+279,
+630
+],
+[
+400,
+988,
+279,
+630
+],
+[
+716,
+988,
+282,
+631
+]
+],
+"photos": 6,
+"name": "Aqua Archive · 6 photos"
+},
+{
+"id": "genz-collage-burgundy-blur-4",
+"pack": "genz",
+"kind": "collage",
+"theme": "Burgundy Blur",
+"file": "genz/collage/burgundy-blur-4.webp",
+"thumb": "thumbs/genz-collage-burgundy-blur-4.jpg",
+"slots": [
+[
+90,
+327,
+423,
+614
+],
+[
+560,
+319,
+440,
+630
+],
+[
+80,
+988,
+443,
+631
+],
+[
+560,
+988,
+440,
+630
+]
+],
+"photos": 4,
+"name": "Burgundy Blur · 4 photos"
+},
+{
+"id": "genz-collage-burgundy-blur-5",
+"pack": "genz",
+"kind": "collage",
+"theme": "Burgundy Blur",
+"file": "genz/collage/burgundy-blur-5.webp",
+"thumb": "thumbs/genz-collage-burgundy-blur-5.jpg",
+"slots": [
+[
+90,
+327,
+423,
+390
+],
+[
+560,
+319,
+440,
+406
+],
+[
+305,
+764,
+443,
+408
+],
+[
+82,
+1210,
+439,
+406
+],
+[
+560,
+1210,
+440,
+408
+]
+],
+"photos": 5,
+"name": "Burgundy Blur · 5 photos"
+},
+{
+"id": "genz-collage-burgundy-blur-6",
+"pack": "genz",
+"kind": "collage",
+"theme": "Burgundy Blur",
+"file": "genz/collage/burgundy-blur-6.webp",
+"thumb": "thumbs/genz-collage-burgundy-blur-6.jpg",
+"slots": [
+[
+90,
+327,
+262,
+614
+],
+[
+400,
+319,
+279,
+630
+],
+[
+716,
+319,
+282,
+631
+],
+[
+82,
+988,
+279,
+630
+],
+[
+400,
+988,
+279,
+630
+],
+[
+718,
+988,
+279,
+630
+]
+],
+"photos": 6,
+"name": "Burgundy Blur · 6 photos"
+},
+{
+"id": "genz-collage-cobalt-chronicles-4",
+"pack": "genz",
+"kind": "collage",
+"theme": "Cobalt Chronicles",
+"file": "genz/collage/cobalt-chronicles-4.webp",
+"thumb": "thumbs/genz-collage-cobalt-chronicles-4.jpg",
+"slots": [
+[
+90,
+327,
+423,
+614
+],
+[
+560,
+318,
+440,
+631
+],
+[
+81,
+987,
+441,
+632
+],
+[
+560,
+987,
+440,
+631
+]
+],
+"photos": 4,
+"name": "Cobalt Chronicles · 4 photos"
+},
+{
+"id": "genz-collage-cobalt-chronicles-5",
+"pack": "genz",
+"kind": "collage",
+"theme": "Cobalt Chronicles",
+"file": "genz/collage/cobalt-chronicles-5.webp",
+"thumb": "thumbs/genz-collage-cobalt-chronicles-5.jpg",
+"slots": [
+[
+90,
+327,
+423,
+390
+],
+[
+560,
+318,
+440,
+408
+],
+[
+305,
+762,
+443,
+411
+],
+[
+81,
+1209,
+441,
+408
+],
+[
+558,
+1209,
+444,
+411
+]
+],
+"photos": 5,
+"name": "Cobalt Chronicles · 5 photos"
+},
+{
+"id": "genz-collage-cobalt-chronicles-6",
+"pack": "genz",
+"kind": "collage",
+"theme": "Cobalt Chronicles",
+"file": "genz/collage/cobalt-chronicles-6.webp",
+"thumb": "thumbs/genz-collage-cobalt-chronicles-6.jpg",
+"slots": [
+[
+90,
+327,
+262,
+614
+],
+[
+399,
+318,
+280,
+631
+],
+[
+717,
+318,
+280,
+631
+],
+[
+80,
+986,
+283,
+634
+],
+[
+398,
+987,
+283,
+633
+],
+[
+716,
+986,
+283,
+634
+]
+],
+"photos": 6,
+"name": "Cobalt Chronicles · 6 photos"
+},
+{
+"id": "genz-collage-copper-crush-4",
+"pack": "genz",
+"kind": "collage",
+"theme": "Copper Crush",
+"file": "genz/collage/copper-crush-4.webp",
+"thumb": "thumbs/genz-collage-copper-crush-4.jpg",
+"slots": [
+[
+80,
+319,
+443,
+631
+],
+[
+560,
+319,
+440,
+630
+],
+[
+82,
+988,
+439,
+630
+],
+[
+560,
+987,
+440,
+631
+]
+],
+"photos": 4,
+"name": "Copper Crush · 4 photos"
+},
+{
+"id": "genz-collage-copper-crush-5",
+"pack": "genz",
+"kind": "collage",
+"theme": "Copper Crush",
+"file": "genz/collage/copper-crush-5.webp",
+"thumb": "thumbs/genz-collage-copper-crush-5.jpg",
+"slots": [
+[
+80,
+319,
+443,
+408
+],
+[
+560,
+319,
+440,
+406
+],
+[
+307,
+764,
+439,
+407
+],
+[
+82,
+1209,
+439,
+407
+],
+[
+560,
+1210,
+440,
+408
+]
+],
+"photos": 5,
+"name": "Copper Crush · 5 photos"
+},
+{
+"id": "genz-collage-copper-crush-6",
+"pack": "genz",
+"kind": "collage",
+"theme": "Copper Crush",
+"file": "genz/collage/copper-crush-6.webp",
+"thumb": "thumbs/genz-collage-copper-crush-6.jpg",
+"slots": [
+[
+80,
+319,
+282,
+631
+],
+[
+400,
+319,
+279,
+630
+],
+[
+718,
+319,
+279,
+630
+],
+[
+82,
+987,
+279,
+631
+],
+[
+400,
+988,
+279,
+630
+],
+[
+718,
+987,
+279,
+631
+]
+],
+"photos": 6,
+"name": "Copper Crush · 6 photos"
+},
+{
+"id": "genz-collage-lavender-lounge-4",
+"pack": "genz",
+"kind": "collage",
+"theme": "Lavender Lounge",
+"file": "genz/collage/lavender-lounge-4.webp",
+"thumb": "thumbs/genz-collage-lavender-lounge-4.jpg",
+"slots": [
+[
+90,
+327,
+423,
+614
+],
+[
+560,
+318,
+440,
+631
+],
+[
+80,
+988,
+443,
+631
+],
+[
+560,
+988,
+440,
+630
+]
+],
+"photos": 4,
+"name": "Lavender Lounge · 4 photos"
+},
+{
+"id": "genz-collage-lavender-lounge-5",
+"pack": "genz",
+"kind": "collage",
+"theme": "Lavender Lounge",
+"file": "genz/collage/lavender-lounge-5.webp",
+"thumb": "thumbs/genz-collage-lavender-lounge-5.jpg",
+"slots": [
+[
+90,
+327,
+423,
+390
+],
+[
+560,
+318,
+440,
+407
+],
+[
+305,
+764,
+443,
+409
+],
+[
+80,
+1208,
+443,
+410
+],
+[
+560,
+1210,
+440,
+408
+]
+],
+"photos": 5,
+"name": "Lavender Lounge · 5 photos"
+},
+{
+"id": "genz-collage-lavender-lounge-6",
+"pack": "genz",
+"kind": "collage",
+"theme": "Lavender Lounge",
+"file": "genz/collage/lavender-lounge-6.webp",
+"thumb": "thumbs/genz-collage-lavender-lounge-6.jpg",
+"slots": [
+[
+90,
+327,
+262,
+614
+],
+[
+400,
+318,
+279,
+631
+],
+[
+716,
+319,
+282,
+631
+],
+[
+82,
+988,
+279,
+630
+],
+[
+400,
+988,
+279,
+630
+],
+[
+718,
+987,
+279,
+631
+]
+],
+"photos": 6,
+"name": "Lavender Lounge · 6 photos"
+},
+{
+"id": "genz-collage-magenta-moment-4",
+"pack": "genz",
+"kind": "collage",
+"theme": "Magenta Moment",
+"file": "genz/collage/magenta-moment-4.webp",
+"thumb": "thumbs/genz-collage-magenta-moment-4.jpg",
+"slots": [
+[
+80,
+317,
+443,
+634
+],
+[
+568,
+326,
+424,
+615
+],
+[
+80,
+986,
+443,
+634
+],
+[
+558,
+986,
+444,
+634
+]
+],
+"photos": 4,
+"name": "Magenta Moment · 4 photos"
+},
+{
+"id": "genz-collage-magenta-moment-5",
+"pack": "genz",
+"kind": "collage",
+"theme": "Magenta Moment",
+"file": "genz/collage/magenta-moment-5.webp",
+"thumb": "thumbs/genz-collage-magenta-moment-5.jpg",
+"slots": [
+[
+80,
+317,
+443,
+410
+],
+[
+569,
+326,
+422,
+392
+],
+[
+305,
+762,
+443,
+411
+],
+[
+80,
+1208,
+443,
+410
+],
+[
+558,
+1208,
+444,
+411
+]
+],
+"photos": 5,
+"name": "Magenta Moment · 5 photos"
+},
+{
+"id": "genz-collage-magenta-moment-6",
+"pack": "genz",
+"kind": "collage",
+"theme": "Magenta Moment",
+"file": "genz/collage/magenta-moment-6.webp",
+"thumb": "thumbs/genz-collage-magenta-moment-6.jpg",
+"slots": [
+[
+80,
+317,
+283,
+634
+],
+[
+399,
+318,
+280,
+631
+],
+[
+716,
+317,
+283,
+634
+],
+[
+80,
+986,
+283,
+634
+],
+[
+398,
+986,
+283,
+634
+],
+[
+714,
+986,
+286,
+635
+]
+],
+"photos": 6,
+"name": "Magenta Moment · 6 photos"
+},
+{
+"id": "genz-collage-mint-mehfil-4",
+"pack": "genz",
+"kind": "collage",
+"theme": "Mint Mehfil",
+"file": "genz/collage/mint-mehfil-4.webp",
+"thumb": "thumbs/genz-collage-mint-mehfil-4.jpg",
+"slots": [
+[
+80,
+317,
+443,
+634
+],
+[
+568,
+326,
+424,
+615
+],
+[
+80,
+986,
+443,
+634
+],
+[
+557,
+986,
+446,
+635
+]
+],
+"photos": 4,
+"name": "Mint Mehfil · 4 photos"
+},
+{
+"id": "genz-collage-mint-mehfil-5",
+"pack": "genz",
+"kind": "collage",
+"theme": "Mint Mehfil",
+"file": "genz/collage/mint-mehfil-5.webp",
+"thumb": "thumbs/genz-collage-mint-mehfil-5.jpg",
+"slots": [
+[
+80,
+317,
+443,
+410
+],
+[
+569,
+326,
+422,
+392
+],
+[
+305,
+762,
+443,
+411
+],
+[
+78,
+1208,
+447,
+412
+],
+[
+558,
+1208,
+444,
+412
+]
+],
+"photos": 5,
+"name": "Mint Mehfil · 5 photos"
+},
+{
+"id": "genz-collage-mint-mehfil-6",
+"pack": "genz",
+"kind": "collage",
+"theme": "Mint Mehfil",
+"file": "genz/collage/mint-mehfil-6.webp",
+"thumb": "thumbs/genz-collage-mint-mehfil-6.jpg",
+"slots": [
+[
+80,
+317,
+283,
+634
+],
+[
+400,
+319,
+279,
+630
+],
+[
+716,
+317,
+283,
+634
+],
+[
+78,
+986,
+286,
+635
+],
+[
+398,
+986,
+283,
+634
+],
+[
+716,
+986,
+283,
+634
+]
+],
+"photos": 6,
+"name": "Mint Mehfil · 6 photos"
+},
+{
+"id": "genz-collage-neon-raas-4",
+"pack": "genz",
+"kind": "collage",
+"theme": "Neon Raas",
+"file": "genz/collage/neon-raas-4.webp",
+"thumb": "thumbs/genz-collage-neon-raas-4.jpg",
+"slots": [
+[
+82,
+319,
+439,
+630
+],
+[
+559,
+319,
+442,
+630
+],
+[
+82,
+988,
+439,
+630
+],
+[
+560,
+988,
+440,
+630
+]
+],
+"photos": 4,
+"name": "Neon Raas · 4 photos"
+},
+{
+"id": "genz-collage-neon-raas-5",
+"pack": "genz",
+"kind": "collage",
+"theme": "Neon Raas",
+"file": "genz/collage/neon-raas-5.webp",
+"thumb": "thumbs/genz-collage-neon-raas-5.jpg",
+"slots": [
+[
+82,
+319,
+439,
+406
+],
+[
+559,
+319,
+442,
+408
+],
+[
+307,
+764,
+439,
+407
+],
+[
+82,
+1210,
+439,
+406
+],
+[
+560,
+1210,
+440,
+408
+]
+],
+"photos": 5,
+"name": "Neon Raas · 5 photos"
+},
+{
+"id": "genz-collage-neon-raas-6",
+"pack": "genz",
+"kind": "collage",
+"theme": "Neon Raas",
+"file": "genz/collage/neon-raas-6.webp",
+"thumb": "thumbs/genz-collage-neon-raas-6.jpg",
+"slots": [
+[
+82,
+319,
+279,
+630
+],
+[
+398,
+319,
+282,
+630
+],
+[
+718,
+319,
+279,
+630
+],
+[
+82,
+988,
+279,
+630
+],
+[
+400,
+988,
+279,
+630
+],
+[
+718,
+988,
+279,
+630
+]
+],
+"photos": 6,
+"name": "Neon Raas · 6 photos"
+},
+{
+"id": "genz-collage-noir-navratri-4",
+"pack": "genz",
+"kind": "collage",
+"theme": "Noir Navratri",
+"file": "genz/collage/noir-navratri-4.webp",
+"thumb": "thumbs/genz-collage-noir-navratri-4.jpg",
+"slots": [
+[
+82,
+319,
+439,
+630
+],
+[
+559,
+319,
+442,
+630
+],
+[
+82,
+988,
+439,
+630
+],
+[
+560,
+988,
+440,
+630
+]
+],
+"photos": 4,
+"name": "Noir Navratri · 4 photos"
+},
+{
+"id": "genz-collage-noir-navratri-5",
+"pack": "genz",
+"kind": "collage",
+"theme": "Noir Navratri",
+"file": "genz/collage/noir-navratri-5.webp",
+"thumb": "thumbs/genz-collage-noir-navratri-5.jpg",
+"slots": [
+[
+82,
+319,
+439,
+405
+],
+[
+559,
+319,
+442,
+408
+],
+[
+307,
+764,
+439,
+407
+],
+[
+91,
+1219,
+421,
+388
+],
+[
+560,
+1211,
+440,
+407
+]
+],
+"photos": 5,
+"name": "Noir Navratri · 5 photos"
+},
+{
+"id": "genz-collage-noir-navratri-6",
+"pack": "genz",
+"kind": "collage",
+"theme": "Noir Navratri",
+"file": "genz/collage/noir-navratri-6.webp",
+"thumb": "thumbs/genz-collage-noir-navratri-6.jpg",
+"slots": [
+[
+82,
+319,
+279,
+630
+],
+[
+398,
+319,
+282,
+630
+],
+[
+718,
+319,
+279,
+630
+],
+[
+91,
+997,
+261,
+612
+],
+[
+400,
+988,
+279,
+630
+],
+[
+727,
+997,
+261,
+612
+]
+],
+"photos": 6,
+"name": "Noir Navratri · 6 photos"
+},
+{
+"id": "genz-collage-peach-pinboard-4",
+"pack": "genz",
+"kind": "collage",
+"theme": "Peach Pinboard",
+"file": "genz/collage/peach-pinboard-4.webp",
+"thumb": "thumbs/genz-collage-peach-pinboard-4.jpg",
+"slots": [
+[
+82,
+318,
+439,
+631
+],
+[
+569,
+328,
+422,
+612
+],
+[
+82,
+987,
+439,
+631
+],
+[
+558,
+987,
+444,
+633
+]
+],
+"photos": 4,
+"name": "Peach Pinboard · 4 photos"
+},
+{
+"id": "genz-collage-peach-pinboard-5",
+"pack": "genz",
+"kind": "collage",
+"theme": "Peach Pinboard",
+"file": "genz/collage/peach-pinboard-5.webp",
+"thumb": "thumbs/genz-collage-peach-pinboard-5.jpg",
+"slots": [
+[
+82,
+318,
+439,
+407
+],
+[
+569,
+328,
+422,
+388
+],
+[
+307,
+764,
+439,
+407
+],
+[
+80,
+1210,
+443,
+408
+],
+[
+560,
+1210,
+440,
+408
+]
+],
+"photos": 5,
+"name": "Peach Pinboard · 5 photos"
+},
+{
+"id": "genz-collage-peach-pinboard-6",
+"pack": "genz",
+"kind": "collage",
+"theme": "Peach Pinboard",
+"file": "genz/collage/peach-pinboard-6.webp",
+"thumb": "thumbs/genz-collage-peach-pinboard-6.jpg",
+"slots": [
+[
+82,
+318,
+279,
+631
+],
+[
+409,
+328,
+261,
+612
+],
+[
+718,
+318,
+279,
+631
+],
+[
+80,
+988,
+282,
+631
+],
+[
+400,
+988,
+279,
+630
+],
+[
+727,
+997,
+261,
+612
+]
+],
+"photos": 6,
+"name": "Peach Pinboard · 6 photos"
+},
+{
+"id": "genz-collage-rosewood-rewind-4",
+"pack": "genz",
+"kind": "collage",
+"theme": "Rosewood Rewind",
+"file": "genz/collage/rosewood-rewind-4.webp",
+"thumb": "thumbs/genz-collage-rosewood-rewind-4.jpg",
+"slots": [
+[
+89,
+327,
+425,
+614
+],
+[
+560,
+318,
+440,
+631
+],
+[
+82,
+987,
+439,
+631
+],
+[
+560,
+987,
+440,
+631
+]
+],
+"photos": 4,
+"name": "Rosewood Rewind · 4 photos"
+},
+{
+"id": "genz-collage-rosewood-rewind-5",
+"pack": "genz",
+"kind": "collage",
+"theme": "Rosewood Rewind",
+"file": "genz/collage/rosewood-rewind-5.webp",
+"thumb": "thumbs/genz-collage-rosewood-rewind-5.jpg",
+"slots": [
+[
+90,
+327,
+423,
+390
+],
+[
+560,
+318,
+440,
+408
+],
+[
+307,
+764,
+439,
+407
+],
+[
+82,
+1209,
+439,
+408
+],
+[
+559,
+1209,
+442,
+410
+]
+],
+"photos": 5,
+"name": "Rosewood Rewind · 5 photos"
+},
+{
+"id": "genz-collage-rosewood-rewind-6",
+"pack": "genz",
+"kind": "collage",
+"theme": "Rosewood Rewind",
+"file": "genz/collage/rosewood-rewind-6.webp",
+"thumb": "thumbs/genz-collage-rosewood-rewind-6.jpg",
+"slots": [
+[
+90,
+327,
+262,
+614
+],
+[
+400,
+318,
+279,
+631
+],
+[
+718,
+318,
+279,
+631
+],
+[
+82,
+987,
+279,
+631
+],
+[
+398,
+987,
+282,
+632
+],
+[
+716,
+986,
+283,
+634
+]
+],
+"photos": 6,
+"name": "Rosewood Rewind · 6 photos"
+},
+{
+"id": "genz-collage-violet-era-4",
+"pack": "genz",
+"kind": "collage",
+"theme": "Violet Era",
+"file": "genz/collage/violet-era-4.webp",
+"thumb": "thumbs/genz-collage-violet-era-4.jpg",
+"slots": [
+[
+80,
+319,
+443,
+630
+],
+[
+560,
+319,
+440,
+630
+],
+[
+82,
+988,
+439,
+630
+],
+[
+560,
+988,
+440,
+630
+]
+],
+"photos": 4,
+"name": "Violet Era · 4 photos"
+},
+{
+"id": "genz-collage-violet-era-5",
+"pack": "genz",
+"kind": "collage",
+"theme": "Violet Era",
+"file": "genz/collage/violet-era-5.webp",
+"thumb": "thumbs/genz-collage-violet-era-5.jpg",
+"slots": [
+[
+80,
+319,
+443,
+408
+],
+[
+560,
+319,
+440,
+406
+],
+[
+307,
+764,
+439,
+407
+],
+[
+82,
+1210,
+439,
+406
+],
+[
+560,
+1210,
+440,
+408
+]
+],
+"photos": 5,
+"name": "Violet Era · 5 photos"
+},
+{
+"id": "genz-collage-violet-era-6",
+"pack": "genz",
+"kind": "collage",
+"theme": "Violet Era",
+"file": "genz/collage/violet-era-6.webp",
+"thumb": "thumbs/genz-collage-violet-era-6.jpg",
+"slots": [
+[
+80,
+319,
+282,
+631
+],
+[
+400,
+319,
+279,
+630
+],
+[
+718,
+319,
+279,
+630
+],
+[
+83,
+988,
+278,
+630
+],
+[
+400,
+988,
+279,
+630
+],
+[
+718,
+988,
+279,
+630
+]
+],
+"photos": 6,
+"name": "Violet Era · 6 photos"
+},
+{
+"id": "genz-story-aqua-archive-a",
+"pack": "genz",
+"kind": "story",
+"theme": "Aqua Archive",
+"file": "genz/story/aqua-archive-a.webp",
+"thumb": "thumbs/genz-story-aqua-archive-a.jpg",
+"slots": [
+[
+164,
+374,
+754,
+739
+]
+],
+"name": "Aqua Archive · Story A",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "genz-story-aqua-archive-b",
+"pack": "genz",
+"kind": "story",
+"theme": "Aqua Archive",
+"file": "genz/story/aqua-archive-b.webp",
+"thumb": "thumbs/genz-story-aqua-archive-b.jpg",
+"slots": [
+[
+203,
+361,
+675,
+682
+]
+],
+"name": "Aqua Archive · Story B",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "genz-story-burgundy-blur-a",
+"pack": "genz",
+"kind": "story",
+"theme": "Burgundy Blur",
+"file": "genz/story/burgundy-blur-a.webp",
+"thumb": "thumbs/genz-story-burgundy-blur-a.jpg",
+"slots": [
+[
+166,
+376,
+750,
+735
+]
+],
+"name": "Burgundy Blur · Story A",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "genz-story-burgundy-blur-b",
+"pack": "genz",
+"kind": "story",
+"theme": "Burgundy Blur",
+"file": "genz/story/burgundy-blur-b.webp",
+"thumb": "thumbs/genz-story-burgundy-blur-b.jpg",
+"slots": [
+[
+209,
+368,
+662,
+668
+]
+],
+"name": "Burgundy Blur · Story B",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "genz-story-cobalt-chronicles-a",
+"pack": "genz",
+"kind": "story",
+"theme": "Cobalt Chronicles",
+"file": "genz/story/cobalt-chronicles-a.webp",
+"thumb": "thumbs/genz-story-cobalt-chronicles-a.jpg",
+"slots": [
+[
+164,
+374,
+754,
+739
+]
+],
+"name": "Cobalt Chronicles · Story A",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "genz-story-cobalt-chronicles-b",
+"pack": "genz",
+"kind": "story",
+"theme": "Cobalt Chronicles",
+"file": "genz/story/cobalt-chronicles-b.webp",
+"thumb": "thumbs/genz-story-cobalt-chronicles-b.jpg",
+"slots": [
+[
+200,
+359,
+683,
+689
+]
+],
+"name": "Cobalt Chronicles · Story B",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "genz-story-copper-crush-a",
+"pack": "genz",
+"kind": "story",
+"theme": "Copper Crush",
+"file": "genz/story/copper-crush-a.webp",
+"thumb": "thumbs/genz-story-copper-crush-a.jpg",
+"slots": [
+[
+166,
+376,
+750,
+735
+]
+],
+"name": "Copper Crush · Story A",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "genz-story-copper-crush-b",
+"pack": "genz",
+"kind": "story",
+"theme": "Copper Crush",
+"file": "genz/story/copper-crush-b.webp",
+"thumb": "thumbs/genz-story-copper-crush-b.jpg",
+"slots": [
+[
+209,
+368,
+662,
+668
+]
+],
+"name": "Copper Crush · Story B",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "genz-story-lavender-lounge-a",
+"pack": "genz",
+"kind": "story",
+"theme": "Lavender Lounge",
+"file": "genz/story/lavender-lounge-a.webp",
+"thumb": "thumbs/genz-story-lavender-lounge-a.jpg",
+"slots": [
+[
+164,
+374,
+754,
+739
+]
+],
+"name": "Lavender Lounge · Story A",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "genz-story-lavender-lounge-b",
+"pack": "genz",
+"kind": "story",
+"theme": "Lavender Lounge",
+"file": "genz/story/lavender-lounge-b.webp",
+"thumb": "thumbs/genz-story-lavender-lounge-b.jpg",
+"slots": [
+[
+202,
+361,
+680,
+685
+]
+],
+"name": "Lavender Lounge · Story B",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "genz-story-magenta-moment-a",
+"pack": "genz",
+"kind": "story",
+"theme": "Magenta Moment",
+"file": "genz/story/magenta-moment-a.webp",
+"thumb": "thumbs/genz-story-magenta-moment-a.jpg",
+"slots": [
+[
+162,
+374,
+759,
+742
+]
+],
+"name": "Magenta Moment · Story A",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "genz-story-magenta-moment-b",
+"pack": "genz",
+"kind": "story",
+"theme": "Magenta Moment",
+"file": "genz/story/magenta-moment-b.webp",
+"thumb": "thumbs/genz-story-magenta-moment-b.jpg",
+"slots": [
+[
+203,
+359,
+677,
+686
+]
+],
+"name": "Magenta Moment · Story B",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "genz-story-mint-mehfil-a",
+"pack": "genz",
+"kind": "story",
+"theme": "Mint Mehfil",
+"file": "genz/story/mint-mehfil-a.webp",
+"thumb": "thumbs/genz-story-mint-mehfil-a.jpg",
+"slots": [
+[
+164,
+374,
+754,
+739
+]
+],
+"name": "Mint Mehfil · Story A",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "genz-story-mint-mehfil-b",
+"pack": "genz",
+"kind": "story",
+"theme": "Mint Mehfil",
+"file": "genz/story/mint-mehfil-b.webp",
+"thumb": "thumbs/genz-story-mint-mehfil-b.jpg",
+"slots": [
+[
+201,
+359,
+679,
+686
+]
+],
+"name": "Mint Mehfil · Story B",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "genz-story-neon-raas-a",
+"pack": "genz",
+"kind": "story",
+"theme": "Neon Raas",
+"file": "genz/story/neon-raas-a.webp",
+"thumb": "thumbs/genz-story-neon-raas-a.jpg",
+"slots": [
+[
+164,
+376,
+755,
+738
+]
+],
+"name": "Neon Raas · Story A",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "genz-story-neon-raas-b",
+"pack": "genz",
+"kind": "story",
+"theme": "Neon Raas",
+"file": "genz/story/neon-raas-b.webp",
+"thumb": "thumbs/genz-story-neon-raas-b.jpg",
+"slots": [
+[
+203,
+361,
+675,
+682
+]
+],
+"name": "Neon Raas · Story B",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "genz-story-noir-navratri-a",
+"pack": "genz",
+"kind": "story",
+"theme": "Noir Navratri",
+"file": "genz/story/noir-navratri-a.webp",
+"thumb": "thumbs/genz-story-noir-navratri-a.jpg",
+"slots": [
+[
+166,
+376,
+750,
+735
+]
+],
+"name": "Noir Navratri · Story A",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "genz-story-noir-navratri-b",
+"pack": "genz",
+"kind": "story",
+"theme": "Noir Navratri",
+"file": "genz/story/noir-navratri-b.webp",
+"thumb": "thumbs/genz-story-noir-navratri-b.jpg",
+"slots": [
+[
+203,
+361,
+675,
+681
+]
+],
+"name": "Noir Navratri · Story B",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "genz-story-peach-pinboard-a",
+"pack": "genz",
+"kind": "story",
+"theme": "Peach Pinboard",
+"file": "genz/story/peach-pinboard-a.webp",
+"thumb": "thumbs/genz-story-peach-pinboard-a.jpg",
+"slots": [
+[
+164,
+376,
+755,
+738
+]
+],
+"name": "Peach Pinboard · Story A",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#3b0f1e"
+},
+{
+"id": "genz-story-peach-pinboard-b",
+"pack": "genz",
+"kind": "story",
+"theme": "Peach Pinboard",
+"file": "genz/story/peach-pinboard-b.webp",
+"thumb": "thumbs/genz-story-peach-pinboard-b.jpg",
+"slots": [
+[
+203,
+361,
+675,
+682
+]
+],
+"name": "Peach Pinboard · Story B",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#3b0f1e"
+},
+{
+"id": "genz-story-rosewood-rewind-a",
+"pack": "genz",
+"kind": "story",
+"theme": "Rosewood Rewind",
+"file": "genz/story/rosewood-rewind-a.webp",
+"thumb": "thumbs/genz-story-rosewood-rewind-a.jpg",
+"slots": [
+[
+166,
+375,
+750,
+736
+]
+],
+"name": "Rosewood Rewind · Story A",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "genz-story-rosewood-rewind-b",
+"pack": "genz",
+"kind": "story",
+"theme": "Rosewood Rewind",
+"file": "genz/story/rosewood-rewind-b.webp",
+"thumb": "thumbs/genz-story-rosewood-rewind-b.jpg",
+"slots": [
+[
+209,
+368,
+662,
+668
+]
+],
+"name": "Rosewood Rewind · Story B",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "genz-story-violet-era-a",
+"pack": "genz",
+"kind": "story",
+"theme": "Violet Era",
+"file": "genz/story/violet-era-a.webp",
+"thumb": "thumbs/genz-story-violet-era-a.jpg",
+"slots": [
+[
+164,
+374,
+754,
+739
+]
+],
+"name": "Violet Era · Story A",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#fff3d6"
+},
+{
+"id": "genz-story-violet-era-b",
+"pack": "genz",
+"kind": "story",
+"theme": "Violet Era",
+"file": "genz/story/violet-era-b.webp",
+"thumb": "thumbs/genz-story-violet-era-b.jpg",
+"slots": [
+[
+202,
+361,
+679,
+685
+]
+],
+"name": "Violet Era · Story B",
+"panel": [
+89,
+1192,
+903,
+423
+],
+"textColor": "#fff3d6"
+}
+]
