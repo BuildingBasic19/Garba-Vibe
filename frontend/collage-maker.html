@@ -1,0 +1,20 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 100 100%27%3E%3Ctext y=%2780%27 font-size=%2780%27%3E🪔%3C/text%3E%3C/svg%3E"><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Poppins:wght@400;600&family=Noto+Serif+Devanagari:wght@600&display=swap" rel="stylesheet"><link rel="stylesheet" href="css/styles.css"><title>Collage Maker | GarbaVibe</title></head><body>
+<header><a class="logo" href="index.html">🪔 GarbaVibe</a><button class="btn alt navbtn" id="navbtn" aria-expanded="false" aria-controls="nav">Menu</button><nav id="nav"><a href="story-maker.html">Story</a><a href="collage-maker.html">Collage</a><a href="greetings.html">Greetings</a><a href="daily.html">Daily</a></nav></header>
+<main><div class="studio">
+<section class="panel" aria-label="Collage controls">
+<div class="drop" id="drop"><p>Drag photos here or</p><label for="files" class="btn">Choose photos</label><input type="file" id="files" accept="image/jpeg,image/png,image/webp" multiple style="display:none"><p style="font-size:.8rem">JPG, PNG or WebP, up to 10 MB each. Click an empty slot on the canvas to add one photo. Drag a photo inside its slot to reposition it.</p></div>
+<h3>Templates</h3>
+<div class="tabs" id="tstyle" role="group" aria-label="Template style"></div><div id="gal"></div>
+<label for="layout">Built-in layout</label><select id="layout"></select>
+<label for="size">Size</label><select id="size"><option value="1080x1920">Story 1080×1920</option><option value="1080x1080">Square 1080×1080</option><option value="1080x1350">Portrait 1080×1350</option></select>
+<label for="gap">Spacing</label><input type="range" id="gap" min="6" max="60" value="20">
+<label for="radius">Rounded corners</label><input type="range" id="radius" min="0" max="80" value="24">
+<label for="bg">Background colour</label><input type="color" id="bg" value="#5a0f24">
+<label><input type="checkbox" id="border" checked style="width:auto"> Gold border</label>
+<label for="caption">Caption (optional)</label><input id="caption" maxlength="60">
+<label for="sticker">Sticker</label><select id="sticker"><option value="">None</option><option>🪔</option><option>🪷</option><option>⭐</option><option>🔔</option></select>
+<h3>Photos</h3><div id="slots"></div>
+<div class="row"><button class="btn" id="dl">Download PNG</button></div><p class="msg" id="msg" role="status"></p>
+<p style="font-size:.8rem">Share the downloaded image to WhatsApp or Instagram from your gallery. Direct posting is not supported.</p></section>
+<section class="stage"><canvas id="cv" width="1080" height="1920" aria-label="Collage preview"></canvas></section></div></main>
+<script src="js/nav.js"></script><script src="js/config.js"></script><script src="js/support.js"></script><script src="js/templates.js"></script><script src="js/templates-img.js"></script><script src="js/collage.js"></script></body></html>

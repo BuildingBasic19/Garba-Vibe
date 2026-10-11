@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Story Maker | GarbaVibe</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Poppins:wght@400;600&family=Noto+Serif+Devanagari:wght@600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css"></head>
+<body>
+<header><a class="logo" href="index.html">🪔 GarbaVibe</a><button class="btn alt navbtn" id="navbtn" aria-expanded="false" aria-controls="nav">Menu</button><nav id="nav"><a href="story-maker.html">Story</a><a href="collage-maker.html">Collage</a><a href="greetings.html">Greetings</a><a href="daily.html">Daily</a></nav></header>
+<main><div class="studio">
+<section class="panel" aria-label="Editor controls">
+<h3>Your text</h3>
+<label for="f0">Heading</label><input id="f0" maxlength="60">
+<label for="f1">Subtitle</label><input id="f1" maxlength="80">
+<label for="f2">Greeting</label><textarea id="f2" rows="3" maxlength="300"></textarea>
+<label for="f3">Signature / name</label><input id="f3" maxlength="40">
+<div class="row"><button class="btn alt" id="clr">Clear all text (template only)</button></div>
+<h3>Suggestions for the day</h3>
+<label for="sugDay">Day / form of Maa Durga</label><select id="sugDay"></select>
+<p class="msg" id="sugNote"></p><div id="sugs"></div>
+<h3>Templates</h3>
+<div class="tabs" id="tstyle" role="group" aria-label="Template style"></div><div id="gal"></div>
+<h3>Design</h3>
+<label for="size">Canvas size</label>
+<select id="size"><option value="1080x1920">Story 1080×1920</option><option value="1080x1080">Square 1080×1080</option><option value="1080x1350">Portrait 1080×1350</option></select>
+<label for="bg">Background</label>
+<select id="bg"><option value="maroon">Maroon</option><option value="purple">Royal purple</option><option value="saffron">Saffron</option><option value="ivory">Ivory</option></select>
+<label for="color">Text colour</label><input type="color" id="color" value="#ffd700">
+<label for="txt">Selected text (click text on canvas)</label><textarea id="txt" rows="3"></textarea>
+<label for="fs">Font size</label><input type="range" id="fs" min="24" max="260">
+<div class="row"><button class="btn alt" id="front">Bring forward</button><button class="btn alt" id="del">Delete</button></div>
+<label>Add decoration</label>
+<div class="row"><button class="btn alt" data-add="🪔">Diya</button><button class="btn alt" data-add="🪷">Lotus</button><button class="btn alt" data-add="⭐">Star</button><button class="btn alt" data-add="🔔">Bell</button><button class="btn alt" data-add="✿">Mandala</button></div>
+<label for="photo">Add one photo (optional; JPG/PNG/WebP, max 8 MB)</label><input type="file" id="photo" accept="image/jpeg,image/png,image/webp">
+<label for="pm">Photo style</label><select id="pm"><option value="circle">Round frame</option><option value="full">Full background</option></select>
+<div class="row"><button class="btn alt" id="rmphoto">Remove photo</button></div>
+<div class="row"><button class="btn alt" id="undo">Undo</button><button class="btn alt" id="redo">Redo</button><button class="btn alt" id="reset">Reset</button></div>
+<h3 id="greetings">Greeting generator</h3>
+<label for="lang">Language</label><select id="lang"><option value="en">English</option><option value="hi">Hindi</option><option value="hinglish">Hinglish</option></select>
+<label for="len">Length</label><select id="len"><option value="short">Short</option><option value="medium" selected>Medium</option><option value="long">Long</option></select>
+<div class="row"><button class="btn" id="gen">Generate</button></div><div id="results"></div>
+<h3>Save</h3><label for="title">Title</label><input id="title" maxlength="80" value="My Navratri story">
+<div class="row"><button class="btn" id="save">Save design</button><button class="btn" id="dl">Download PNG</button></div>
+<p class="msg" id="msg" role="status"></p>
+<h3>My creations</h3><p style="font-size:.8rem">Saved on this installation only (not a cloud account). Uploaded photos are not stored; re-add them after reopening.</p><div id="designs"></div>
+</section>
+<section class="stage"><canvas id="cv" width="1080" height="1920" aria-label="Story preview"></canvas></section>
+</div></main>
+<script src="js/nav.js"></script><script src="js/api.js"></script><script src="js/config.js"></script><script src="js/support.js"></script><script src="js/greetings-data.js"></script><script src="js/templates.js"></script><script src="js/templates-img.js"></script><script src="js/story.js"></script>
+</body></html>
