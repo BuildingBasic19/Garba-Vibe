@@ -1,9 +1,8 @@
-// EDIT THIS FILE: put your own details here.
-// 1) Save your payment QR image as frontend/assets/my-qr.png
-// 2) Set your UPI ID and name below.
+// GarbaVibe support popup settings.
+// QR image: frontend/assets/myqr.png  (file name must match exactly, lowercase)
 window.GARBAVIBE_SUPPORT = {
   enabled: true,
-  upiId: 'yourname@upi',
-  payeeName: 'Your Name',
-  qrImage: 'assets/my-qr.png'
+  upiId: 'anant.tripathi19@fam',
+  payeeName: 'Anant Tripathi',
+  qrImage: 'assets/myqr.png'
 };
